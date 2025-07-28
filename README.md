@@ -1,6 +1,6 @@
-# ML Regression Practice
+# ML Training
 
-Training linear and logistic regression with custom and HuggingFace datasets.
+Training linear regression, logistic regression, Neural Networks, and Descision Trees with custom and HuggingFace datasets.
 
 ## Project Overview
 
@@ -55,3 +55,8 @@ ml-regression-practice/
 
 - Custom datasets: City population vs restaurant profit data
 - Future: Will include experiments with HuggingFace datasets
+
+
+## Goals:
+- Implement Normalization
+- Implement Forward Propogation without a Library
